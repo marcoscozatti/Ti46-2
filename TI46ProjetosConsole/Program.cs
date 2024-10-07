@@ -14,9 +14,11 @@ namespace TI46ProjetosConsole
 
             //exercicio1();
 
-            exercicio2();
+            // exercicio2();
 
-          
+            Console.WriteLine("Nicholas teste .....");
+
+
 
 
 
